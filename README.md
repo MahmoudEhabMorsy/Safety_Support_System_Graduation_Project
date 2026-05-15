@@ -1,5 +1,7 @@
 # Safety Support System (ADAS) — Graduation Project
 
+![Poster](assets/Screenshots/Poster.png)
+
 > An embedded systems and IoT-based Advanced Driver Assistance System (ADAS) designed to enhance vehicle safety through tire burst early detection, parking assistance, water cooling, steering lock control, and real-time mobile monitoring.
 
 > **Note:** Some functionalities and simulations in this repository may require hardware components and specific embedded environments to run correctly.
@@ -450,10 +452,10 @@ Special thanks to:
 ## Demo
 
 [Demo Video Link](https://drive.google.com/file/d/1kvOKJ2upMjnD_64EVGWJ5WimWvPmJH6b/view?usp=sharing)
+
 [Mobile App Screenshots](https://drive.google.com/drive/folders/1vL78CmYDWtqwqEOu0tVCRsxG0etwbRaD?usp=sharing)
 
 ## Screenshots
-![Poster](assets/Screenshots/Poster.png)
 ![Mobile App](assets/Screenshots/Mobile_APP.png)
 ![Prototype](assets/Screenshots/Prototype.jpg)
 ![3D Layer](assets/Screenshots/3D_Layer.jpg)
