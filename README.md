@@ -455,5 +455,5 @@ Special thanks to:
 ## Screenshots
 ![Poster](assets/Screenshots/Poster.png)
 ![Mobile App](assets/Screenshots/Mobile_APP.png)
-![Prototype](assets/Screenshots/Prototype.png)
-![3D Layer](assets/Screenshots/3D_Layer.png)
+![Prototype](assets/Screenshots/Prototype.jpg)
+![3D Layer](assets/Screenshots/3D_Layer.jpg)
