@@ -450,9 +450,10 @@ Special thanks to:
 ## Demo
 
 [Demo Video Link](https://drive.google.com/file/d/1kvOKJ2upMjnD_64EVGWJ5WimWvPmJH6b/view?usp=sharing)
+[Mobile App Screenshots](https://drive.google.com/drive/folders/1vL78CmYDWtqwqEOu0tVCRsxG0etwbRaD?usp=sharing)
 
 ## Screenshots
-![Poster](https://drive.google.com/file/d/1MISAJeZmkSbfZGA5erI4NxcbU2n-J0fz/view?usp=drive_link)
-![Mobile App](https://drive.google.com/drive/folders/1vL78CmYDWtqwqEOu0tVCRsxG0etwbRaD?usp=sharing)
-![Prototype](https://drive.google.com/file/d/1URCmMvyHi9mWJXVDumhUIqFrQWPCdPdA/view?usp=drive_link)
-![3D Layer](https://drive.google.com/file/d/1f_geCe_TqUUhsccbi-K23QVT2TnF0Rxv/view?usp=sharing)
+![Poster](assets/Screenshots/Poster.png)
+![Mobile App](assets/Screenshots/Mobile_APP.png)
+![Prototype](assets/Screenshots/Prototype.png)
+![3D Layer](assets/Screenshots/3D_Layer.png)
